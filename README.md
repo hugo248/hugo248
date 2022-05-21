@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hugo248
+- 👋 Hi, I’m @vashung
 - 👀 I’m interested in Coding, Problem Solving, learning new Techonology
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : ping me here
